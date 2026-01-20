@@ -1,0 +1,8 @@
+{
+  "name": "bom_AI English Tutor",
+  "description": "An interactive AI English teacher that uses a PDF knowledge base to teach students via real-time voice and visual avatar feedback.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
